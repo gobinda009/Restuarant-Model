@@ -1,5 +1,5 @@
 <!--heading-->
-# Hotel Model
+# Restuarant Model
 ---
 <!-- Strong -->
 **Framework used** **Spring MVC**
